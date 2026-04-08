@@ -1,4 +1,4 @@
-# Projet de détection d'objets de circulation
+# Projet de détection d'objets de circulation "FluxVision"
 
 ## Aperçu
 Ce projet se concentre sur le développement d'un système de détection d'objets de circulation à l'aide de YOLOv8. L'objectif est d'identifier et de classer avec précision divers participants à la circulation tels que les voitures, les vélos, les motos, les bus et les personnes dans les images.
